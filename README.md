@@ -16,7 +16,7 @@ It is a lightning (or 30-pin) device that connects to an iPhone/iPad/iPod Touch 
 
 ## Why should this list exist?
 ### Minimize e-waste
-Many MFI accessories have been abandoned from their manufacturers. One notable example which was brought back to life is [Romo](https://medium.com/@fotidim/romo-the-iphone-robot-f7027779e925). Without a companion app or support from their manufacturers many of those devices are useless and end up in the trash. Having access to the protocol string gives us the chance to breather new life into them.
+Many MFI accessories have been abandoned from their manufacturers. One notable example which was brought back to life is [Romo](https://medium.com/@fotidim/romo-the-iphone-robot-f7027779e925). Without a companion app or support from their manufacturers many of those devices are useless and end up in the trash. Having access to the protocol string gives us the chance to breathe new life into them.
 
 ### Allow 3rd party apps
 With the protocol string and enough knowledge about the communications protocol, we are able to create 3rd party apps for MFI accessories. Allowing 3rd party apps for an accessory promotes healthy competition and innovation. Functionalities that were beyond scope for the original manufacturer could be added.
