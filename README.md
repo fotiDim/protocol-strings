@@ -6,7 +6,7 @@ An initiative for a crowdsourced list of `protocol strings` used by `MFI` device
 |---|---|---|---|
 |Romotive|Romo|com.romotive.romo|https://github.com/Navideck/Romo-iOS-SDK
 |VW Group|Tested on 2021 VW Touareg (potentially the same for many other MQB Volkswagen, Audi, Skoda, Seat vehicles)|com.vwag.infotainment.carplay.exlap, com.volkswagen.exlap, cz.skoda-auto.exlap|
-|VW Group|Skoda Citigo|com.volkswagen.viwi, com.bluegiga.iwrap|
+|VW Group|VW Up, Skoda Citigo, Seat Mii|com.volkswagen.viwi, com.bluegiga.iwrap|Enables reading fuel consumption data, controlling the radio etc.
 |Ford| Tested on 2017 Ford Mondeo. Also the same for select Toyota, Lexus, Suzuki, Daihatsu, Lincoln vehicles listed [here](https://smartdevicelink.com/faq/#what-vehicles)| com.smartdevicelink.prot29, com.smartdevicelink.prot28, com.smartdevicelink.prot27, com.smartdevicelink.prot26, com.smartdevicelink.prot25, com.smartdevicelink.prot24, com.smartdevicelink.prot23, com.smartdevicelink.prot22, com.smartdevicelink.prot21, com.smartdevicelink.prot20, com.smartdevicelink.prot19, com.smartdevicelink.prot18, com.smartdevicelink.prot17, com.smartdevicelink.prot16, com.smartdevicelink.prot15, com.smartdevicelink.prot14, com.smartdevicelink.prot13, com.smartdevicelink.prot12, com.smartdevicelink.prot11, com.smartdevicelink.prot10, com.smartdevicelink.prot9, com.smartdevicelink.prot8, com.smartdevicelink.prot7, com.smartdevicelink.prot6, com.smartdevicelink.prot5, com.smartdevicelink.prot4, com.smartdevicelink.prot3, com.smartdevicelink.prot2, com.smartdevicelink.prot1, com.smartdevicelink.prot0, com.smartdevicelink.multisession, com.ford.sync.prot0|https://smartdevicelink.com/en/guides/iOS/getting-started/sdk-configuration
 
 ## What are Protocol Strings?
